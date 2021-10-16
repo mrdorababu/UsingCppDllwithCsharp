@@ -1,0 +1,7 @@
+E:\Coding\VisualStudioCpp\TestProjects\UseMathDll\bin\Debug\UseMathDll.exe.config
+E:\Coding\VisualStudioCpp\TestProjects\UseMathDll\bin\Debug\UseMathDll.exe
+E:\Coding\VisualStudioCpp\TestProjects\UseMathDll\bin\Debug\UseMathDll.pdb
+E:\Coding\VisualStudioCpp\TestProjects\UseMathDll\obj\Debug\UseMathDll.csproj.AssemblyReference.cache
+E:\Coding\VisualStudioCpp\TestProjects\UseMathDll\obj\Debug\UseMathDll.csproj.CoreCompileInputs.cache
+E:\Coding\VisualStudioCpp\TestProjects\UseMathDll\obj\Debug\UseMathDll.exe
+E:\Coding\VisualStudioCpp\TestProjects\UseMathDll\obj\Debug\UseMathDll.pdb
